@@ -1,2 +1,2 @@
 ## Design
-https://designsystemchecklist.com/
+designsystemchecklist.com
